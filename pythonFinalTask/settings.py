@@ -79,7 +79,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'farmers_markets',
         'USER': 'marketsuser',
-        'PASSWORD': '12345',
+        'PASSWORD': 'Pa$$W0rd',
         'HOST': 'localhost',
         'PORT': '5432',
     }
